@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ammarid11
-- 👀 I’m interested to making application with Kotlin, Java, C++ language
+- 👀 I’m interested to making application with Kotlin, Java, C++, and Python language
 - 🌱 I’m currently learning Kotlin Language, Java Language, and Python Language
 - 💞️ I’m looking to collaborate on ...
 
